@@ -1,0 +1,42 @@
+body{
+  background-color: gainsboro;
+}
+header{
+  background-color: darkorange;
+  height: 90px;
+  margin-bottom: 30px;
+}
+main{
+  background-color: gold;
+  justify-content: space-around;
+  display: flex;
+  align-items: center;
+  border-radius: 10px;
+  
+}
+h1{
+  text-align: center;
+}
+footer{
+  background-color: orange;
+  height: 200px;
+  color: white;
+  font-size: 25px;
+}
+section{
+  background-color: gold;
+  height: 300px;
+  justify-content: flex-start;
+  display: flex;
+  align-items: flex-start;
+  margin: 5px;
+  flex-direction: column;
+}
+p#class{
+  background-color: orange;
+  border-radius: 10px;
+  font-size: 20px;
+}
+
+
+  

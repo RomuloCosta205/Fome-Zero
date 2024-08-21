@@ -1,0 +1,60 @@
+body{
+  background-color: yellow;
+  font-size: 20px;
+}
+p{
+  background-color: green;
+  border-radius: 10px;
+}
+h1#fome{
+  text-align: center;
+}
+nav{
+  background-color: cyan;
+  justify-content: space-around;
+  align-items: flex-start;
+  display: flex;
+  height: 250px;
+}
+a:active{
+  color: red;
+  font-size: 30px;
+}
+p#Abel{
+  height: 280px;
+  background-color: green;
+  font-size: 30px;
+  margin: 10px;
+}
+
+section{
+  background-color: cornflowerblue;
+  display: flex;
+  align-content: space-between;
+  justify-content: space-between;
+  align-items: center;
+  height: 620px;
+  flex-direction: row;
+}
+.amizade{
+  background-color: red;
+  margin-top: 20px;
+  margin-left: 20px;
+  font-size: 25px;
+  height: 1000px;
+  color: ghostwhite;
+}
+footer#mais{
+  background-color: darkblue;
+  height: 80px;
+  color: white;
+}
+p#mais{
+  background-color: darkblue;
+  height: 80px;
+  color: white;
+}
+a#cor{
+  color: blue;
+  font-size: 20px;
+}

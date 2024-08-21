@@ -1,0 +1,44 @@
+body{
+  background-image: url("queda da fome.jpg");
+  background-repeat: repeat;
+  background-size: 1600px 1300px;
+  background-position: center;
+}
+h3{
+  color: white;
+  text-align: center;
+  font-size: 40px;
+}
+p{
+  color: white;
+}
+h4{
+  color: white;
+}
+details{
+  color: white;
+}
+nav{
+  background-color: cyan;
+  justify-content: space-around;
+  align-items: flex-start;
+  display: flex;
+  height: 250px;
+  
+}
+a:active{
+  color: red;
+  font-size: 30px;
+}
+footer#mais{
+  background-color: darkblue;
+  height: 80px;
+  color: white;
+}
+h4#mais{
+  color: white;
+}
+h3#escola{
+  color: darkgreen;
+}
+

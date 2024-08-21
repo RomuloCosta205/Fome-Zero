@@ -1,0 +1,51 @@
+body{
+  background-color: lightblue;
+}
+nav{
+  background-color: cyan;
+  justify-content: space-around;
+  align-items: flex-start;
+  display: flex;
+  height: 250px;
+  margin-top: 10px;
+}
+h1#aluguel{
+  text-align: center;
+}
+aside{
+  background-color: orange;
+  border-radius: 10px;
+}
+section{
+  background-color: coral;
+  border-radius: 10px;
+}
+article{
+  background-color: orangered;
+  border-radius: 5px;
+}
+footer{
+  background-color: orangered;
+  border-radius: 5px;
+}
+div{
+  background-color: orangered;
+  border-radius: 5px;
+}
+header{
+  background-color: yellow;
+  height: 350px;
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+a:active{
+  color: red;
+  font-size: 30px;
+}
+footer#mais{
+  background-color: darkblue;
+  height: 80px;
+  color: white;
+}

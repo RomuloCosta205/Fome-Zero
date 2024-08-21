@@ -1,0 +1,41 @@
+body{
+  background-color: palegoldenrod;
+}
+head{
+  background-color: blue;
+}
+nav{
+  background-color: cyan;
+  height: 150px;
+  justify-content: space-around;
+  display: flex;
+  align-items: flex-start;
+}
+section{
+  background-color: blue;
+  border-radius: 5px;
+  color: white;
+}
+h1{
+  text-align: center;
+}
+aside{
+  background-color: gainsboro;
+  border-radius: 10px;
+}
+a:active{
+  color: red;
+  font-size: 30px;
+}
+p#escola{
+  color: white;
+}
+a:active{
+  color: red;
+  font-size: 30px;
+}
+footer#mais{
+  background-color: darkblue;
+  height: 80px;
+  color: white;
+}

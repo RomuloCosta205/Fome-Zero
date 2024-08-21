@@ -1,0 +1,32 @@
+body{
+  background-image: linear-gradient(to top,red,blue);
+  color: chartreuse;
+}
+nav{
+  background-color: cyan;
+  height: 250px;
+  justify-content: space-around;
+  display: flex;
+  align-items: flex-start;
+}
+footer{
+  background-color: chocolate;
+  margin: 5px;
+  height: 210px;
+  padding: 15px;
+}
+section{
+  background-color: grey;
+  height: 300px;
+  border-radius: 10px;
+}
+a:active{
+  color: red;
+  font-size: 30px;
+}
+footer#mais{
+  background-color: darkblue;
+  height: 80px;
+  color: white;
+}
+
